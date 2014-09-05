@@ -8,9 +8,9 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Polyglt]  | [Photo Mania] | [Sudoku] |
+| [Polyglt]  | [Rock Paper Scissors] | [Sudoku] |
 |:-------- |:----------- |:----------- |
-| Final project on Makers Academy created in 10 days with Fred McGroarty, Tiffanie Chia, Mark Mekhaiel, Andrew Cumine and Ruslan Vikhor | Photo sharing and selling platform | Sudoku web app |
+| Final project on Makers Academy created in 10 days with Fred McGroarty, Tiffanie Chia, Mark Mekhaiel, Andrew Cumine and Ruslan Vikhor | Rock Paper Scissors web game | Sudoku web app |
 
 
 Web development
@@ -99,4 +99,4 @@ Contact me
   
   [Polyglt]: https://github.com/fredmcgroarty/SocialLanguageLearning
   [Sudoku]: https://github.com/KanoTheDev/sudoku-web
-  [Photo Mania]: https://github.com/KanoTheDev/photo-mania
+  [Rock Paper Scissors]: https://github.com/KanoTheDev/rock-paper-scissors/
