@@ -78,8 +78,6 @@ Now I am more confident in planning and writing sofware.
 Formal Education
 ----------------
 
-### Vytautas Magnus University
-**Studying Marketing management: 2011&mdash;now**
 
 ### Vytautas Magnus University
 **Studied Business Informatics 2008&mdash;2010**
