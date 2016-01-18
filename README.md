@@ -43,6 +43,7 @@ Now I am more confident in planning and writing sofware.
   - DataMapper
   - Version control with git and GitHub
   - Twitter Bootstrap and Foundation
+  - Polymer
   - WebSockets
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
