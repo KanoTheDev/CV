@@ -26,26 +26,6 @@ It feels like it was one of the best decisions
 I made in my life.
 Now I am more confident in planning and writing sofware.
 
-
-### Work experience
-- 2014.12-Present
-- Company: Synergium
-- Company site: www.synergium.eu
-- Position: Software Developer and Scrum Master
-- Description: Developing translation business related software.
-
-- 2011-2013
-- Company: KM11
-- Company site: km11.lt
-- Position: Founder
-- Description: Founder of small advertising, social media agency.
-
-- 2004-2006
-- Company: Individual businness
-- Position: Network administration
-- Description: Owning and aministrating small ISP company.
-
-
 ### Skills
 
   - Ruby 2.0
@@ -71,6 +51,24 @@ Now I am more confident in planning and writing sofware.
   - Agile values, principles and practice
   - Object­ oriented principles and design
   - Pair programming
+
+### Work experience
+- 2014.12-Present
+- Company: Synergium
+- Company site: www.synergium.eu
+- Position: Software Developer and Scrum Master
+- Description: Developing translation business related software.
+
+- 2011-2013
+- Company: KM11
+- Company site: km11.lt
+- Position: Founder
+- Description: Founder of small advertising, social media agency.
+
+- 2004-2006
+- Company: Individual businness
+- Position: Network administration
+- Description: Owning and aministrating small ISP company.
   
 
 ###Latest software related courses attended
