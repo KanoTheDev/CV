@@ -53,13 +53,13 @@ Now I am more confident in planning and writing sofware.
   - Pair programming
 
 ### Work experience
- 2014.12-Present
+ 2014.12-2016.02
  - Company: Synergium
  - Company site: www.synergium.eu
  - Position: Software Developer and Scrum Master
  - Description: Developing language translation and business management related software.
 
-2011-2013
+2011.11-2013.12
  - Company: KM11
  - Company site: km11.lt
  - Position: Founder
