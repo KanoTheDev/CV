@@ -57,7 +57,7 @@ Now I am more confident in planning and writing sofware.
  - Company: Synergium
  - Company site: www.synergium.eu
  - Position: Software Developer and Scrum Master
- - Description: Developing translation business related software.
+ - Description: Developing language translation and business management related software.
 
 2011-2013
  - Company: KM11
