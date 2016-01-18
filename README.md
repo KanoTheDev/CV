@@ -1,7 +1,7 @@
 Karolis Noreika
 =========
 
-I'm a junior web developer currently located in Vilnius, Lithuania.
+I'm a Ruby/Rails developer currently located in Vilnius, Lithuania.
 I love making things that run smoothly &mdash; especially technology.
 Read my code on [GitHub].
 
@@ -25,6 +25,25 @@ software design course on Makers Academy.
 It feels like it was one of the best decisions
 I made in my life.
 Now I am more confident in planning and writing sofware.
+
+
+### Work experience
+  - 2014.12 ­ Present
+  - Company: Synergium
+  - Company site: www.synergium.eu
+  - Position: Software Developer and Scrum Master
+  - Description: Developing translation business related software.
+  
+  - 2011 ­ 2013
+  - Company: KM11
+  - Company site: km11.lt
+  - Position: Founder
+  - Description: Founder of small advertising, social media agency.
+  
+  - 2004 ­ 2006
+  - Company: Individual businness
+  - Position: Network administration
+  - Description: Owning and aministrating small ISP company.
 
 
 ### Skills
