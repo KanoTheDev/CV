@@ -28,11 +28,11 @@ Now I am more confident in planning and writing sofware.
 
 ### Skills
 
-  - Ruby 2.0
+  - Ruby 2.3.0
   - HTML5
   - CSS3 and Sass
   - JavaScript, jQuery, Ajax and CoffeeScript
-  - Rails 4
+  - Rails 3 and 4
   - Sinatra
   - Test­ driven development
   - Unit testing with RSpec and Jasmine
