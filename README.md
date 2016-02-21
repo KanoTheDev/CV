@@ -41,7 +41,7 @@ Now I am more confident in planning and writing sofware.
   - FactoryGirl fixtures and Shoulda matchers
   - PostgreSQL and SQLite
   - DataMapper
-  - Version control with git and GitHub
+  - Version control with Git and GitHub
   - Twitter Bootstrap and Foundation
   - Polymer
   - WebSockets
