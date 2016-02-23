@@ -1,9 +1,8 @@
 Karolis Noreika
 =========
 
-I'm a Ruby/Rails developer currently located in Vilnius, Lithuania.
+Software developer and Scrum master at [Synergium].
 I love making things that run smoothly &mdash; especially technology.
-Read my code on [GitHub].
 
 Code examples
 -------------
@@ -18,13 +17,15 @@ Web development
 
 I'm convinced that great software transforms our lives. 
 For many years I felt I want to become a software
-developer and I made a radical change this year. 
+developer and I made a radical change in 2014.
 I moved from Kaunas, Lithuania to London, UK and
 started a 12 weeks object oriented programming and 
 software design course on Makers Academy. 
-It feels like it was one of the best decisions
-I made in my life.
-Makers Academy made me more confident in planning and writing sofware so I landed as a Jr. Software developer at [Synergium].
+MA made me more confident in 
+planning and writing sofware. It feels like it was
+one of the best decisions I made in my life.
+
+Currently I am looking for projects and positions in London where I can continue to challenge and stretch myself.
 
 ### Skills
 
@@ -52,24 +53,22 @@ Makers Academy made me more confident in planning and writing sofware so I lande
   - Agile values, principles and practice
   - Object­ oriented principles and design
   - Pair programming
-  - MacOS
-  - Linux
 
 ### Work experience
  2014.12-2016.03
  - Company: Synergium
- - Company site: www.synergium.eu
+ - Company site: www.synergium.eu
  - Position: Software Developer and Scrum Master
  - Description: Developing language translation and business management related software.
 
 2011.11-2013.12
  - Company: KM11
- - Company site: km11.lt
+ - Company site: km11.lt
  - Position: Founder
  - Description: Founder of small advertising, social media agency.
 
 2004-2006
- - Company: Individual businness
+ - Company: Individual businness
  - Position: Network administration
  - Description: Owning and aministrating small ISP company.
 
