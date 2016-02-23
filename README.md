@@ -111,7 +111,7 @@ Contact me
     
   [karolis.noreika@gmail.com]: mailto:karolis.noreika@gmail.com
   [GitHub]: https://github.com/KanoTheDev
-  [LinkedIn]: http://linkedin.com/in/karolis.noreika
+  [LinkedIn]: http://lt.linkedin.com/in/karolisnoreika
   [Twitter]: https://twitter.com/noreika
   
   [Polyglt]: https://github.com/fredmcgroarty/SocialLanguageLearning
