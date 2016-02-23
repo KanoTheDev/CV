@@ -24,7 +24,7 @@ started a 12 weeks object oriented programming and
 software design course on Makers Academy. 
 It feels like it was one of the best decisions
 I made in my life.
-Makers Academy made me more confident in planning and writing sofware so I landed as a JR Software developer at [Synergium].
+Makers Academy made me more confident in planning and writing sofware so I landed as a Jr. Software developer at [Synergium].
 
 ### Skills
 
@@ -52,9 +52,11 @@ Makers Academy made me more confident in planning and writing sofware so I lande
   - Agile values, principles and practice
   - Object­ oriented principles and design
   - Pair programming
+  - MacOS
+  - Linux
 
 ### Work experience
- 2014.12-2016.02
+ 2014.12-2016.03
  - Company: Synergium
  - Company site: www.synergium.eu
  - Position: Software Developer and Scrum Master
