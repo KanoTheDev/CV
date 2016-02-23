@@ -53,6 +53,7 @@ Currently I am looking for projects and positions in London where I can continue
   - Agile values, principles and practice
   - Object­ oriented principles and design
   - Pair programming
+  - MacOS, Linux
 
 ### Work experience
  2014.12-2016.03
