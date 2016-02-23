@@ -24,7 +24,7 @@ started a 12 weeks object oriented programming and
 software design course on Makers Academy. 
 It feels like it was one of the best decisions
 I made in my life.
-Now I am more confident in planning and writing sofware.
+Makers Academy made me more confident in planning and writing sofware so I landed as a JR Software developer at [Synergium].
 
 ### Skills
 
@@ -110,8 +110,9 @@ Contact me
   [karolis.noreika@gmail.com]: mailto:karolis.noreika@gmail.com
   [GitHub]: https://github.com/KanoTheDev
   [LinkedIn]: http://linkedin.com/in/karolis.noreika
-  [Twitter]: http://twitter.com/noreika
+  [Twitter]: https://twitter.com/noreika
   
   [Polyglt]: https://github.com/fredmcgroarty/SocialLanguageLearning
   [Sudoku]: https://github.com/KanoTheDev/sudoku-web
   [Rock Paper Scissors]: https://github.com/KanoTheDev/rock-paper-scissors/
+  [Synergium]: http://www.synergium.eu
