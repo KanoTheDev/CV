@@ -55,13 +55,13 @@ Currently I am looking for projects and positions in London where I can continue
 
 
 ### Work experience
- 2016.07-now
+2016.07-now
  - Company: SameSystem
  - Company site: www.samesystem.com
  - Position: Software Developer
  - Description: Maintaining and developing intelligent business tools for scheduling, budgeting and human resources.
 
- 2014.12-2016.07
+2014.12-2016.07
  - Company: Synergium
  - Company site: www.synergium.eu
  - Position: Software Developer and Scrum Master
