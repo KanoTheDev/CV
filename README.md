@@ -1,7 +1,7 @@
 Karolis Noreika
 =========
 
-Software developer and Scrum master at [Synergium].
+Software developer at [SameSystem].
 I love making things that run smoothly &mdash; especially technology.
 
 Code examples
@@ -29,16 +29,16 @@ Currently I am looking for projects and positions in London where I can continue
 
 ### Skills
 
-  - Ruby 2.3.0
+  - Ruby
+  - Object oriented principles and design
   - HTML5
   - CSS3 and Sass
   - JavaScript, jQuery, Ajax and CoffeeScript
-  - Rails 3 and 4
+  - Rails
   - Sinatra
-  - Test­ driven development
+  - TDD, BDD
   - Unit testing with RSpec and Jasmine
   - Integration testing with Capybara
-  - Behaviour driven development with Cucumber
   - FactoryGirl fixtures and Shoulda matchers
   - PostgreSQL and SQLite
   - DataMapper
@@ -46,17 +46,22 @@ Currently I am looking for projects and positions in London where I can continue
   - Twitter Bootstrap and Foundation
   - Polymer
   - WebSockets
-  - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
   - GitHub Flavoured Markdown
-  - Deployment to Heroku
-  - Agile values, principles and practice
-  - Object­ oriented principles and design
-  - Pair programming
+  - AWS, Heroku
   - MacOS, Linux
+  - Pair programming
+  - Agile values, principles and practice, Scrum
+
 
 ### Work experience
- 2014.12-2016.03
+ 2016.07-now
+ - Company: SameSystem
+ - Company site: www.samesystem.com
+ - Position: Software Developer
+ - Description: Maintaining and developing intelligent business tools for scheduling, budgeting and human resources.
+
+ 2014.12-2016.07
  - Company: Synergium
  - Company site: www.synergium.eu
  - Position: Software Developer and Scrum Master
@@ -73,7 +78,7 @@ Currently I am looking for projects and positions in London where I can continue
  - Position: Network administration
  - Description: Owning and aministrating small ISP company.
 
-###Latest software related courses attended
+###Software related courses attended
 
 
 #### Makers Academy
@@ -118,3 +123,5 @@ Contact me
   [Sudoku]: https://github.com/KanoTheDev/sudoku-web
   [Rock Paper Scissors]: https://github.com/KanoTheDev/rock-paper-scissors/
   [Synergium]: http://www.synergium.eu
+  [SameSystem]: http://www.samesystem.com
+  
