@@ -78,7 +78,7 @@ Currently I am looking for projects and positions in London where I can continue
  - Position: Network administration
  - Description: Owning and aministrating small ISP company.
 
-###Software related courses attended
+### Software related courses attended
 
 
 #### Makers Academy
@@ -124,4 +124,4 @@ Contact me
   [Rock Paper Scissors]: https://github.com/KanoTheDev/rock-paper-scissors/
   [Synergium]: http://www.synergium.eu
   [SameSystem]: http://www.samesystem.com
-  
+ 
